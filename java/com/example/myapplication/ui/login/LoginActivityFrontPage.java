@@ -24,8 +24,9 @@ import android.widget.TextView;
 import android.widget.Toast;
 
 import com.example.myapplication.EditBundle;
-import com.example.myapplication.MainActivity;
+import com.example.myapplication.MainActivity2;
 import com.example.myapplication.R;
+import com.example.myapplication.ScrollingActivity;
 import com.example.myapplication.databinding.ActivityLoginFrontPageBinding;
 
 public class LoginActivityFrontPage extends AppCompatActivity {
@@ -143,7 +144,7 @@ public class LoginActivityFrontPage extends AppCompatActivity {
     }
 
     public void openUserPage() {
-        Intent intent = new Intent(this, MainActivity.class);
+        Intent intent = new Intent(this, ScrollingActivity.class);
         startActivity(intent);
     }
 
