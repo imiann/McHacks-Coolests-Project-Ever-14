@@ -1,5 +1,6 @@
 # Second-Course-McHacks-2023-
-Made by Ian McFarland, Audrey Guo, Jake Fogel, and Matthew Wax
+Made by Ian McFarland, Audrey Guo, Jake Fogel, and Matthew Wax 
+🌟 McHacks Hackathon 2023
 
 In 2022, Canada alone wasted an estimated $30 billion in food. Meanwhile, 3 billion Canadians today cannot afford healthy meals. Something about these numbers just doesn't add up.
 
