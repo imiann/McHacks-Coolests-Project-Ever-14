@@ -1,4 +1,4 @@
-# Second-Course-McHacks-2023-
+# Second-Course
 <strong>Made by Ian McFarland, Audrey Guo, Jake Fogel, and Matthew Wax</strong>
 <br> 🌟 McHacks Hackathon 2023
 
